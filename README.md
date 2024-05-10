@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Axel00x
+- 👀 I’m interested in Python, JavaScript, SQL, HTML & CSS, C++, C and more...
+- 🌱 I’m currently learning Web Development (front & back-end)
